@@ -30,7 +30,7 @@ The jupyter notebook should be ready to run!
 
 Special thanks to Professor Hanke and Sulin for their support of this project.
 
-## Information about the Dataset:
+## Information about the Dataset
 The EJSCREEN dataset developed and released by the Environmental Protection Agency (EPA). While EJSCREEN is primarily a user-friendly mapping tool, the raw data is available to download both as a csv file or a geodataframe. The dataset contains a total of 220,333 rows, corresponding to a geographic block. It contains regional information on a variety of environmental indicators regarding air pollution, proximity to traffic, lead paint exposure, proximity to waste and hazardous chemical sites, and wastewater discharge. It also contains various demographic variables such as percent of people of color, percent of low-income households, and percent of individuals with below a high school education.
 
 ## Data Imputation
