@@ -1,7 +1,7 @@
 # EJSCREEN
 
 
-## Abstract:
+## Abstract
 This project aims to investigate whether machine learning algorithms can classify community blocks as majority low-income or not majority low-income based
 on environmental hazard indexes using the ECJSREEN database. The classification methods compared include naive Bayes, logistic regression, decisions trees,
 random forest, and XGBoost, and a neural network An emphasize on tree-based
@@ -30,7 +30,7 @@ The jupyter notebook should be ready to run!
 
 Special thanks to Professor Hanke and Sulin for their support of this project.
 
-## Below is some information about the dataset:
+## Information about the Dataset:
 The EJSCREEN dataset developed and released by the Environmental Protection Agency (EPA). While EJSCREEN is primarily a user-friendly mapping tool, the raw data is available to download both as a csv file or a geodataframe. The dataset contains a total of 220,333 rows, corresponding to a geographic block. It contains regional information on a variety of environmental indicators regarding air pollution, proximity to traffic, lead paint exposure, proximity to waste and hazardous chemical sites, and wastewater discharge. It also contains various demographic variables such as percent of people of color, percent of low-income households, and percent of individuals with below a high school education.
 
 ## Data Imputation
