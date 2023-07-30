@@ -9,7 +9,13 @@ classification and feature ranking was used identify features that are the best 
 dataset with EJSCREEN data for only New Jersey to situate the analysis in a more
 local setting. From an environmental justice lens, it is expected that higher rates
 of environmental pollution would correlate to lower income levels. Thus, it may
-be possible to classify the income status of communities based on their environmental hazard indicators.
+be possible to classify the income status of communities based on their environmental hazard indicators. The results of the project suggested that low-income communities can be classified based on environmental hazard indices and the XGBoost classifier had the highest performance.
+
+Read the full writeup here: [EJSCREEN_writeup.pdf](https://github.com/graliuce/EJSCREEN/files/12209740/EJSCREEN_writeup.pdf)
+
+
+![image](https://github.com/graliuce/EJSCREEN/assets/22261069/d63a1098-9437-43bc-ac20-4c91c96545bb)
+
 
 
 The data used in this project is freely available to download here: https://www.epa.gov/ejscreen/download-ejscreen-data
